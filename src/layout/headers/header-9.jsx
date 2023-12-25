@@ -47,9 +47,9 @@ const HeaderNine = () => {
                         <ul>
                           <li>
                             <span>
-                              <a href="mailto:hello@harry.com">
+                              <a href="mailto:hello@sarancruzer.com">
                                 <Email />
-                                hello@harry.com
+                                hello@sarancruzer.com
                               </a>
                             </span>
                           </li>

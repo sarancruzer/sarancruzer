@@ -24,7 +24,7 @@ const PhotographerAboutSelf = () => {
           <div className="about__info-content">
             <h4>Email us:</h4>
             <p>
-              <a href="mailto:harry@photography.com">harry@photography.com</a>
+              <a href="mailto:sarancruzer@photography.com">sarancruzer@photography.com</a>
             </p>
           </div>
         </div>

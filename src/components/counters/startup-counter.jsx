@@ -56,7 +56,7 @@ const StartUpCounter = ({ element_style = false }) => {
                   <h3 className="section__title-7">
                     {"Qu'est-ce"} qui est inclus dans
                     <span className="section__title-7-highlight">
-                      Startup Harry
+                      Startup sarancruzer
                       <HighlightShapeThree />
                     </span>
                     ?

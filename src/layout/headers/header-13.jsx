@@ -32,7 +32,7 @@ const HeaderThirteen = () => {
                         <ul>
                           <li>
                             <span>
-                              <a href="mailto:contact@harry.com">Contact@harry.com</a>
+                              <a href="mailto:contact@sarancruzer.com">Contact@sarancruzer.com</a>
                             </span>
                           </li>
                         </ul>

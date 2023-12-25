@@ -60,7 +60,7 @@ const FooterThree = () => {
                 <div className="row align-items-center">
                   <div className="col-sm-6">
                     <div className="footer__copyright-2">
-                      <p>Copyright © {new Date().getFullYear()} by <Link href="/">HARRY</Link>. 
+                      <p>Copyright © {new Date().getFullYear()} by <Link href="/">sarancruzer</Link>. 
                       All Rights Reserved.</p>
                     </div>
                   </div>

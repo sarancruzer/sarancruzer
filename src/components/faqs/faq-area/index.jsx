@@ -202,7 +202,7 @@ const FaqArea = ({ element_faq = false }) => {
                       },
                       {
                         id: "thirteen",
-                        title: "Does Harry have any documentations?",
+                        title: "Does sarancruzer have any documentations?",
                         desc: "A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders",
                         parent: "community-1_accordion",
                       },
@@ -239,7 +239,7 @@ const FaqArea = ({ element_faq = false }) => {
                       },
                       {
                         id: "seventeen",
-                        title: "Does Harry have any documentations?",
+                        title: "Does sarancruzer have any documentations?",
                         desc: "A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders",
                         parent: "support-1_accordion",
                       },

@@ -100,7 +100,7 @@ const portfolio_data = [
     shapes:[{id:1,shape:shape_freelancer_1}],
     icon:<FreelancerPortOne/>,
     tags:['User Research','UX Design'],
-    title:<>Harry website for <br /> Unique start-up brands.</>,
+    title:<>sarancruzer website for <br /> Unique start-up brands.</>,
     image:[
       {id:1,img:portfolio_freelancer_1},
       {id:2,img:portfolio_freelancer_2},

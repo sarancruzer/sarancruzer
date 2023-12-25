@@ -62,7 +62,7 @@ const HelpCenterArticles = () => {
                   title="Services"
                   article="8"
                   sm={true}
-                  desc="Frequently asked questions about all our services for Harry help center."
+                  desc="Frequently asked questions about all our services for sarancruzer help center."
                 />
               </div>
               <div className="col-lg-6 col-md-6">

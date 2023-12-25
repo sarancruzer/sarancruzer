@@ -15,7 +15,7 @@ function SingleBrand({ src }) {
   return (
     <div className="col-lg-3 col-md-4 col-sm-6">
       <div className="brand__item-3 text-center">
-        <span className="brand__tooltip">Visit Harry</span>
+        <span className="brand__tooltip">Visit sarancruzer</span>
         <Image src={src} alt="brand" />
       </div>
     </div>

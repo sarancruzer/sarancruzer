@@ -16,7 +16,7 @@ const SearchArea = () => {
                 <h3 className="search__result-title">
                   Search results for: <span> “hello”</span>
                 </h3>
-                <p>Harry found 46 results for your search query.</p>
+                <p>sarancruzer found 46 results for your search query.</p>
               </div>
               <div className="search__result-form">
                 <form onSubmit={handleSubmit}>

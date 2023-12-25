@@ -19,7 +19,7 @@ const PostShareWrapper = ({ blog_details_2 = false }) => {
             <a href="#">Blog</a>
             <a href="#">Creative</a>
             <a href="#">Portfoilo</a>
-            <a href="#">Harry</a>
+            <a href="#">sarancruzer</a>
           </div> */}
         </div>
         <div className={`col-xl-5 ${blog_details_2 ? "col-lg-5" : ""}`}>

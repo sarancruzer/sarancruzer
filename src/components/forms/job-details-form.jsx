@@ -88,7 +88,7 @@ const JobDetailsForm = () => {
           </div>
         </div>
         <p>
-          How did you find out about Harry ? Do you know any of our external
+          How did you find out about sarancruzer ? Do you know any of our external
           initiatives (like workshops, <br /> meetups, etc)? If you do, please
           write its name.*
         </p>

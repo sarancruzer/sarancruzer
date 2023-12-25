@@ -87,7 +87,7 @@
 
         //Email Header
 
-        $head = " /// Harry Template \\\ ";
+        $head = " /// sarancruzer Template \\\ ";
 
 
 

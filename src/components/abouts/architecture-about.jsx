@@ -57,7 +57,7 @@ const ArchitectureAbout = () => {
                 data-wow-duration="1s"
               >
                 <div className="section__title-wrapper-8 mb-15">
-                  <span className="section__title-pre-8">Harry Stido.</span>
+                  <span className="section__title-pre-8">sarancruzer Stido.</span>
                   <h3 className="section__title-8">
                     Influential <br /> and {' '}
                     <span className="section__title-highlight-8">

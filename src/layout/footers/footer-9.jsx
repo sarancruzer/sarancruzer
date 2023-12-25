@@ -61,8 +61,8 @@ const FooterNine = () => {
                           </div>
                           <div className="footer__info-text-8">
                             <h4>Email us:</h4>
-                            <a href="mailto:contact@harry.com">
-                              Contact@harry.com
+                            <a href="mailto:contact@sarancruzer.com">
+                              Contact@sarancruzer.com
                             </a>
                           </div>
                         </div>

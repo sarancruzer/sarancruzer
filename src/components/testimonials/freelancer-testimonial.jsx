@@ -26,7 +26,7 @@ const slider_thumb_nav = [
 const testimonial_data = [
   {
     desc: "“ There are many variations passages Lorem Ipsum available but the majority suffered alteration in some form by injected humour randomised look embarrassing hidden in middle text ”",
-    name: "Fleece Harrygold",
+    name: "Fleece sarancruzergold",
     designation: "Project Manager",
   },
   {

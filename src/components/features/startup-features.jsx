@@ -52,7 +52,7 @@ const StartupFeatures = () => {
               <div className="section__title-wrapper-7 text-center mb-60">
                 <span className="section__title-pre-7">Explore Features</span>
                 <h3 className="section__title-7">
-                  Harry for every{" "}
+                  sarancruzer for every{" "}
                   <span className="section__title-7-highlight">
                     business
                     <HighlightShapeTwo />{" "}

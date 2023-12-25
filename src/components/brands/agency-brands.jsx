@@ -93,7 +93,7 @@ const AgencyBrands = ({
               <div className="col-xxl-12">
                 <div className="brand__info text-center">
                   <p>
-                    Join the <span>10.000+</span> companies trusting harry
+                    Join the <span>10.000+</span> companies trusting sarancruzer
                   </p>
                 </div>
               </div>

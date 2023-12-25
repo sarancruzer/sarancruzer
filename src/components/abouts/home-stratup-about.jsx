@@ -77,7 +77,7 @@ const HomeStartUpAbout = () => {
                   </h3>
                   <p>
                     Understand the growth of your product and direct <br /> it
-                    better, with Harry.
+                    better, with sarancruzer.
                   </p>
                 </div>
                 <div className="about__list about__list-counter">

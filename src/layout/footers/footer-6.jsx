@@ -70,8 +70,8 @@ const FooterSix = ({style_2=false}) => {
                           </div>
                           <div className="footer__contact-mail">
                             <span>
-                              <a href="mailto:support@harry.com">
-                                support@harry.com
+                              <a href="mailto:support@sarancruzer.com">
+                                support@sarancruzer.com
                               </a>
                             </span>
                           </div>

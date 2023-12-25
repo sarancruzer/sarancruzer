@@ -113,7 +113,7 @@ const blog_data = [
   {
     id: 3,
     img: img_3,
-    tag: 'Harry Design',
+    tag: 'sarancruzer Design',
     title: 'The Key To A Successful Non-Profit Marketing Campaign',
     date: 'January 18, 2022',
     read: '10 Min',

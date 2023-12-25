@@ -172,7 +172,7 @@ const AccordionWithTab = () => {
                     },
                     {
                       id: "community-13",
-                      title: "Does Harry have any documentations?",
+                      title: "Does sarancruzer have any documentations?",
                       desc: "A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders",
                       parent: "community-faq-1_accordion",
                     },
@@ -209,7 +209,7 @@ const AccordionWithTab = () => {
                     },
                     {
                       id: "support-17",
-                      title: "Does Harry have any documentations?",
+                      title: "Does sarancruzer have any documentations?",
                       desc: "A startup or start-up is started by individual founders or entrepreneurs to search for a repeatable and scalable business model. A startup or start-up is started by individual founders",
                       parent: "support-faq-1_accordion",
                     },

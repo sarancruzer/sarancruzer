@@ -61,8 +61,8 @@ const HeaderTwo = () => {
                         <div className="header__info-content">
                           <h4>Email us:</h4>
                           <p>
-                            <a href="mailto:harry@lawyer.com">
-                              harry@lawyer.com
+                            <a href="mailto:sarancruzer@lawyer.com">
+                              sarancruzer@lawyer.com
                             </a>
                           </p>
                         </div>

@@ -8,7 +8,7 @@ const FooterBottom = ({inner,copyright,link}) => {
         <div className="col-sm-6">
           <div className={`footer__${copyright}`}>
             <p>
-              <Link href="/">© {new Date().getFullYear()} Harry</Link> All Rights Reserved.
+              <Link href="/">© {new Date().getFullYear()} sarancruzer</Link> All Rights Reserved.
             </p>
           </div>
         </div>

@@ -32,7 +32,7 @@ const faq_items = [
   },
   {
     id: "Three",
-    title: "Does Harry have any documentations?",
+    title: "Does sarancruzer have any documentations?",
     desc: "Non similique culpa in provident quos sit commodi beatae ea laborum suscipit id autem velit aut iusto odio et deleniti quis et doloremque enim vel consequuntur quos.",
     parent: "general_accordion",
   },
@@ -156,7 +156,7 @@ const ServiceDetailsArea = () => {
                       The Challange
                     </h3>
                     <p>
-                      Harry web offers a complete lineup of features from any
+                      sarancruzer web offers a complete lineup of features from any
                       major Maecena quis interdum, orci at euis dapibus,ante
                       pharetra tellus.
                     </p>

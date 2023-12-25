@@ -23,7 +23,7 @@ const NewsletterPopupThree = () => {
           className="newsletter__thumb newsletter__thumb-3 include-bg"
           style={{backgroundImage:`url(${bg_img.src})`}}
         ></div>
-        <span className="newsletter__title-pre">Harry Discount</span>
+        <span className="newsletter__title-pre">sarancruzer Discount</span>
         <h3 className="newsletter__title-3">Get 16% off</h3>
         <p>
           Subscribe now and receive a discount on <br /> your first order

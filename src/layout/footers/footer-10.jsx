@@ -110,8 +110,8 @@ const FooterTen = () => {
                         <FooterInfoItem
                           icon={<EmailFour />}
                           title="Email us:"
-                          link="mailto:Contact@harry.com"
-                          linkText="Contact@harry.com"
+                          link="mailto:Contact@sarancruzer.com"
+                          linkText="Contact@sarancruzer.com"
                         />
                         <FooterInfoItem
                           icon={<PhoneFive />}

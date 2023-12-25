@@ -90,7 +90,7 @@ const FooterFour = ({style_2=false}) => {
                           </div>
                           <div className="footer__info-text">
                             <h4>Email us:</h4>
-                            <a href="mailto:support@gmail.com">harry@agency.com</a>
+                            <a href="mailto:support@gmail.com">sarancruzer@agency.com</a>
                           </div>
                         </div>
                         <div className="footer__info-item d-flex align-items-start">
