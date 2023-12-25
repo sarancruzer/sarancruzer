@@ -23,7 +23,7 @@ const PortfolioBanner = () => {
                      Full Stack Developer
                   </h3>
                   <p>
-                  I have expertise in designing and developing web applications using modern technologies such as  Angular, Node.js, React.js, javascript 
+                  I have expertise in designing and developing web applications using modern technologies such as  Angular, Node.js, React.js, Vue3, javascript 
                   </p>
                   <p>
                   I am passionate about developing high-quality applications, and I strive to stay up to date with the latest trends in web development.
