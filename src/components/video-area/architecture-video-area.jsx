@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 // internal
-import bg from "@assets/img/video/8/video-bg-1.jpg";
+import bg from "@assets/img/video/video-bg.jpg";
 import play_icon from "@assets/img/video/video-icon-play.png";
 import VideoModal from "@components/common/modals/modal-video";
 import useModal from "@hooks/use-modal";
