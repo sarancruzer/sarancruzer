@@ -31,7 +31,7 @@ const PortfolioBanner = () => {
 
                   <div className="slider__btn-9 mb-85">
                     <Link href="/contact" className="tp-btn-5 tp-link-btn-3">
-                      Book a call
+                      Contact Me
                       <span>
                         <i className="fa-regular fa-arrow-right"></i>
                       </span>

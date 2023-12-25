@@ -7,7 +7,7 @@ import BlogListArea from "@components/blogs/blog-list-area";
 export default function BlogListSidebar() {
   return (
     <Wrapper>
-      <SEO pageTitle={'Blog List Sidebar'} />
+      <SEO pageTitle={'Blogs'} />
       <Header header_solid={true} commonOffCanvas={true} />
       <SliderBreadcrumb />
       <BlogListArea/>
